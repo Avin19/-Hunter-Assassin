@@ -1,6 +1,6 @@
 # Hunter Assassin
 
 
-! [ScreenShot](Assets\include.svg)
+![ScreenShot](Assets/include.svg)
 
 
